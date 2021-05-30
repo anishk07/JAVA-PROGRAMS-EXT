@@ -25,8 +25,8 @@ public class BST {
   // Driver method to test above
   public static void main(String []args)
   {
-      String[] arr = { "contribute", "geeks", "ide", "practice"};
-      String x = "ide";
+      String[] arr = { "Binary", "Search", "Technique", "Strings"};
+      String x = "Technique";
       int result = binarySearch(arr, x);
 
       if (result == -1)
