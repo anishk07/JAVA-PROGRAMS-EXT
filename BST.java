@@ -1,5 +1,5 @@
 // Java program to implement Binary Search for strings
-public class Main {
+public class BST {
  
   static int binarySearch(String[] arr, String x)
   {
