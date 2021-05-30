@@ -1,4 +1,4 @@
-// Java program to implement Binary Search for strings
+// JAVA Program To Implement Binary Search Technique On Strings
 public class BST {
  
   static int binarySearch(String[] arr, String x)
