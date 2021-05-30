@@ -1,4 +1,4 @@
-//Java Program To Find Employee Name In An Array List That Starts With A Specified Alphabet
+//Java Program To Find Employee Name In A List That Starts With A Specified Alphabet
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
